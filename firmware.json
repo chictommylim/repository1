@@ -1,0 +1,8 @@
+[
+    {
+    "fileName" : "LP_EM_CC2340R5/basic_ble_oad_onchip_v1.bin",
+    "version" : "0.00.00.43_1.0.0+0",
+    "hwType" : "LP_EM_CC2340R5",
+    "imageType" : "mcuboot"
+  }
+]
